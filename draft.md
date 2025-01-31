@@ -15,7 +15,6 @@ This week’s release was curated by [Jonathan Kitt](https://bsky.app/profile/jo
 ### Highlight
 
 
-
 ### Insights
 
 + [RcppStreams 0.1.4 Maintenance](https://dirk.eddelbuettel.com/blog/2025/01/29/#rcppstreams_0.1.4)
